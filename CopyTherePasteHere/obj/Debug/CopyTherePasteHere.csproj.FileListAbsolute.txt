@@ -1,0 +1,14 @@
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\bin\Debug\CopyTherePasteHere.exe.config
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\bin\Debug\CopyTherePasteHere.exe
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\bin\Debug\CopyTherePasteHere.pdb
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\MainWindow.g.cs
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\App.g.cs
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere_MarkupCompile.cache
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere_MarkupCompile.lref
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\MainWindow.baml
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.g.resources
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.Properties.Resources.resources
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.csproj.GenerateResource.Cache
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.exe
+c:\users\matti\documents\visual studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.pdb
+C:\Users\matti\Documents\Visual Studio 2015\Projects\CopyPaste\CopyTherePasteHere\obj\Debug\CopyTherePasteHere.csprojResolveAssemblyReference.cache
